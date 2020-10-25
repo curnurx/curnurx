@@ -1,4 +1,4 @@
-### Welcome!
+### Welcome! :computer: :lock: :zap: :satellite: :video_game: :mahjong:
 
 <!--
 **curnurx/curnurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
