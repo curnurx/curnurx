@@ -1,6 +1,6 @@
 ### Welcome! :computer: :lock: :zap: :satellite: :video_game: :mahjong:
 
-> 열등감은 나를 노력하게 하고 자신감은 내 노력을 효율적이게 한다. - 쿠르누룩스 -
+> 열등감은 나를 노력하게 한다. - 쿠르누룩스 -
 
 <!--
 **curnurx/curnurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
