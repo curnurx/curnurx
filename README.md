@@ -1,7 +1,7 @@
 ### Welcome! :computer: :lock: :zap: :satellite: :video_game: :mahjong:
 
 > 열등감은 나를 노력하게 한다. - 쿠르누룩스 -
-
+> 연구의 기본은 최신 소식을 아는 것이다. - 누군가 -
 <!--
 **curnurx/curnurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
