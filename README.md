@@ -4,7 +4,7 @@
 > 연구의 기본은 최신 소식을 아는 것이다. - 누군가 - <br> <br>
 > 애초에 임베디드로 가려고 고민했을 때, 전산은 평균보다 잘하면서 전자도 전자 공학 학부생 수준 만큼 올리는 것을 목표로 노력을 두배로 하자는 마음가짐으로 선택한 거였음. - 군대에서 진지하게 진로 고민 중이였던 쿠르누룩스 - <br> <br>
 > 뭐라 적을라 했지만 다 지웠다. (._. ) ...   <br> <br>
-> 오랜만에 코드포스 한 판했는데 앞 길이 막막하다.... <br> <br>
+> 오랜만에 코드포스 한 판했는데 앞 길이 막막하다.... Stupid! <br> <br>
 <!--
 **curnurx/curnurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
