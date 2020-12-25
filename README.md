@@ -1,6 +1,4 @@
-### Welcome! :computer: :lock: :zap: :satellite: :video_game: :mahjong:
-
-> 열등감은 나를 노력하게 한다. - 쿠르누룩스 - <br> <br> 
+### Welcome!
 
 
 
