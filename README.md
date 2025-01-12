@@ -1,6 +1,3 @@
-<div align="right">
-<img src="https://gpvc.arturio.dev/curnurx" align="right" />
-</div>  
 ### Welcome!
 
 
